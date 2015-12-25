@@ -1,0 +1,9 @@
+{
+  "name": "zefti-redis-io-adapter",
+  "description": "Zefti Redis IO Adapter",
+  "author": "Ryan Ogle",
+  "dependencies": {
+  },
+  "private": false,
+  "version": "0.0.1"
+}
